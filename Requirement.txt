@@ -1,0 +1,7 @@
+pyqt5
+opencv-python
+pandas
+numpy
+sklearn
+pyserial
+matplotlib

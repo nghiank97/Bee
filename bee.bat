@@ -1,0 +1,1 @@
+C:\Users\nghia\AppData\Local\Programs\Python\Python36\python.exe c:\Users\nghia\OneDrive\Desktop\Bee\bee.py

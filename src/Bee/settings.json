@@ -1,0 +1,46 @@
+{
+    "preferences": {
+        "baud_rate": {
+            "value": 250000
+        },
+        "board": {
+            "value": "Arduino Uno"
+        },
+        "serial_name": {
+            "value": "COM3"
+        },
+        "camera_id": {
+            "value": 0
+        }
+    },
+    "capture": {
+        "brightness": 255,
+        "contrast": 125,
+        "saturation": 0,
+        "exposure": 1,
+        "thresh": 95,
+        "size": 5,
+        "max": 45,
+        "min": 30
+    },
+    "delta": {
+        "sb": 0.324,
+        "sp": 0.066,
+        "L": 0.118,
+        "l": 0.345,
+        "h": 0.04
+    },
+    "control_line": {
+        "top": 140,
+        "bottom": 155,
+        "start_pickup": 150
+    },
+    "scale": {
+        "h": -0.318,
+        "ew": 0.2,
+        "eh": 0.0,
+        "rh": 0.226,
+        "rw": 0.283,
+        "delay_motor": 0.03
+    }
+}
